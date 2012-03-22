@@ -2,7 +2,7 @@
 
 DarkBoard is a dark [Espresso][esp] theme made to imitate the [Textmate][txtm]'s 'blackboard' theme, by Johannes of [Carnot Interactive][carnot].
 
-I really tried to get the colors and feel to be as close to what I use in TextMate as possible. it is not 100% perfect due to some limitations in Espresso styling engine.
+I really tried to get the colors and feel to be as close to what I use in TextMate as possible. it is not 100% perfect due to some limitations in Espresso styling engine. For example Espresso currently does not allow you to disable antialiasing in its text as TextMate does.
 
 This version provides simple support for HTML, CSS and JS. 
 
