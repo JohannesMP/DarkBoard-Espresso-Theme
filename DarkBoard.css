@@ -1,0 +1,103 @@
+/*
+	@theme DarkBoard
+	@override-placeholders html, xml, css, php, sourcecode.js
+*/
+
+
+@base {
+	color:#F8F8F8;
+	background-color:rgba(0,5,9,0.85);
+	insertion-point-color: #fff;
+	selection-background-color: #253B76;
+}
+
+tag, source, sourcecode { spell-check: disabled; }
+
+
+/* = TextMate Blackboard Theme Values = */
+
+	TM Comment { color: rgb(174,174,174); }
+	TM Constant { color: rgb(216,250,60); }
+	TM Entity { color: rgb(255,100,0); }
+	TM Keyword { color: rgb(251,222,45); }
+	TM Storage { color: rgb(251,222,45); }
+	TM String { color: rgb(97,206,60); }
+	TM Support { color: rgb(141,166,206); }
+	TM Variable { color: rgb(248,248,248); }
+	TM Invalid - Deprecated { color: rgb(171,42,29); font-style: italic}
+	TM Invalid - Illegal { color: rgb(248,248,248); background-color: rgb(157,30,21); }
+	TM Superclass { color: rgb(255,100,0); font-style: italic; }
+	TM String interpolation{ color: rgb(255,100,0); font-style: italic; }
+	TM meta.function-cal.py { color: rgb(190,205,230); }
+	TM meta.tag { color: rgb(127,144,170); }
+	TM entity.name.section { color: rgb(255,255,255); }
+
+
+
+/* = General = */
+
+language-root { color: rgb(255,255,255); }
+string { color: rgb(97,206,60); }
+comment { color: rgb(174,174,174); }
+keyword { color: rgb(251,222,45); }
+constant { color: rgb(216,250,60); }
+operator { color: rgb(251,222,45); }
+
+
+/* = HTML = */
+
+html tag { color: rgb(127,144,170); }
+html tag.doctype {color: rgb(90, 108, 135); }
+html tag attribute-name { color: rgb(190,205,230); }
+html tag.*.script entity,
+html tag.*.script attribute-name { color: rgb(255,100,0); }
+html tag.*.script punctuation { color: rgb(255,255,255); }
+html tag.*.script string punctuation { color: rgb(97,206,60) }
+
+
+/* = CSS = */
+
+css selector { color: rgb(255,100,0); }
+css property-name { color: rgb(127,144,170); }
+css property-value { color: rgb(127,144,170); }
+css property-value punctuation { color: rgb(255,255,255);}
+css property-value support name { color: rgb(190,205,230);}
+css property-value support{ color: rgb(255,255,255); }
+
+
+/* = Javascript = */
+
+js variable.function { color: rgb(251,222,45); }
+js variable.function.method { color: rgb(141,166,206); }
+js function name { color: rgb(255,100,0); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
