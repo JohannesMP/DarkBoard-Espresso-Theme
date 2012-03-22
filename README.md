@@ -10,7 +10,7 @@ This version provides simple support for HTML, CSS and JS.
 ## Preview
 
 Espresso on the left, TextMate on the right:
-<a href="http://i.imgur.com/ipeJym.png"><img src="http://i.imgur.com/ipeJym.png" /></a>
+<a href="http://i.imgur.com/ipeJy.png"><img src="http://i.imgur.com/ipeJym.png" /></a>
 
 
 Feel free to contact me via [Twitter][twitter].
