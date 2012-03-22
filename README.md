@@ -13,7 +13,15 @@ Espresso with DarkBoard on the left, TextMate with blackboard on the right (clic
 <br />
 <a href="http://i.imgur.com/ipeJy.png"><img src="http://i.imgur.com/ipeJyl.png" /></a>
 
+Installing DarkBoard using Git
+=================
 
+Open Terminal.app (in Applications/Utilities)
+
+    cd ~/Library/Application\ Support/Espresso/Themes/
+    git clone git://github.com/Jo-Shadow/DarkBoard-Espresso-Theme.git
+    
+<br />
 Feel free to contact me via [Twitter][twitter].
 
 
