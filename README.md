@@ -19,7 +19,7 @@ Installing DarkBoard using Git
 Open Terminal.app (in Applications/Utilities)
 
     cd ~/Library/Application\ Support/Espresso/Themes/
-    git clone git://github.com/Jo-Shadow/DarkBoard-Espresso-Theme.git
+    git clone git://github.com/CarnotInteractive/DarkBoard-Espresso-Theme.git
     
 <br />
 Feel free to contact me via [Twitter][twitter].
